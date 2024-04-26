@@ -1,3 +1,4 @@
+
 package com.hana.gittest;
 
 public class Test {
@@ -5,4 +6,5 @@ public class Test {
     int b;
 
     int c;
+    int aa;
 }
